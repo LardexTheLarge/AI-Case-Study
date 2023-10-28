@@ -8,16 +8,13 @@ This case study shows the story of Viz.ai, a company that has harnessed the powe
 
 ## Business Activities
 
-- What specific problem is the company or project trying to solve?
+The precise diagnosis and treatment of large vessel occlusion (LVO) strokes is the problem Viz.ai is trying to solve. Large vessel occlusions are particularly severe, stemming from blockages in major brain blood vessels. A timely diagnosis is essential in reducing the risk of significant brain damage or even fatality.
 
-The specific problem they are trying to solve is quick and accurate diagnosis
-and treatment of large vessel occlusions (LVO) strokes
+Viz.ai serves a diverse range of healthcare professionals and institutions, including neurologists, emergency room physicians, hospitals and healthcare systems, and healthcare providers. Their software is employed by over 1,400 hospitals, signifying a wide-reaching impact on stroke care.
 
-- Who is the company's intended customer? Is there any information about the market size of this set of customers?
+As leaders in AI-assisted stroke care, Viz.ai holds a competitive advantage. Their real-time AI detection, coupled with a mobile platform for remote consultations and scalability for flawless integration into existing healthcare systems, sets them apart.
 
-- What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-- Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Viz.ai has harnessed several technologies to address this problem, including AI, deep learning, cloud computing, telemedicine integration, mobile application development, and robust data security measures. These technologies collectively empower Viz.ai to offer rapid and accurate stroke diagnosis, optimizing patient care outcomes. Furthermore, regulatory compliance and data security are important to Viz.ai's operations, ensuring the protection of sensitive patient information and compliance to healthcare rules.
 
 ## Landscape
 
