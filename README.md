@@ -1,22 +1,17 @@
-# AI-Case-Study
-
-# TITLE
+# Viz.ai: Pioneering Stroke Diagnosis and Treatment through AI
 
 ## Overview and Origin
 
-- Name of company
+In March 2016, the healthcare technology company Viz.ai emerged with one goal - to improve stroke diagnosis and treatment. Founded by two doctors, Dr. Chris Mansi and Dr. David Golan, Viz.ai set out on a mission to enhance the precision and speed of stroke care using cutting-edge artificial intelligence (AI) technology. Their journey from creation to innovation is the result of AI in the healthcare sector.
 
-- When was the company incorporated?
-
-- Who are the founders of the company?
-
-- How did the idea for the company (or project) come about?
-
-- How is the company funded? How much funding have they received?
+This case study shows the story of Viz.ai, a company that has harnessed the power of AI to combat one of the most time-sensitive and life-threatening medical conditions. We explore the steps the company took, including securing vital funding from venture capital firms and other investors. Viz.ai's growth began with seed funding, kick-starting their development efforts. In 2017 and 2019, they successfully got two significant Series funding rounds, which not only funded product development but also enabled the expansion of their AI applications for stroke diagnosis and treatment.
 
 ## Business Activities
 
 - What specific problem is the company or project trying to solve?
+
+The specific problem they are trying to solve is quick and accurate diagnosis
+and treatment of large vessel occlusions (LVO) strokes
 
 - Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
