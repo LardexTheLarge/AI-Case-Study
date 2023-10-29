@@ -28,7 +28,7 @@ Viz.ai's work also intersects with the field of Gene Editing, albeit indirectly.
 
 Furthermore, Virtual Reality (VR) and Augmented Reality (AR) technologies have the potential to transform medical education, surgical planning, and patient engagement. Viz.ai's commitment to innovation and technology positions them at the forefront of such developments, as they explore the possibilities of AI and real-time diagnostics in conjunction with immersive technologies.
 
-In this diverse landscape of healthcare technology, Viz.ai stands out as a leader in AI-assisted stroke care, with providing timely, accurate, and potentially life-saving solutions. While major tech-related companies like Google Health, PathAI, Zimmer Biomet, and Medrobotics Corporation have their areas of specialization.
+In this diverse landscape of healthcare technology, Viz.ai stands out as a leader in AI-assisted stroke care, with providing timely, accurate, and potentially life-saving solutions. While major tech-related companies like Google Health, PathAI, Zimmer Biomet, and Stryker Corporation have their areas of specialization.
 
 ## Results
 
