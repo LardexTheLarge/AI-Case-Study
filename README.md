@@ -44,8 +44,16 @@ In the healthcare technology sector, competition is robust, and one notable comp
 
 - If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+I would want them to use their AI stroke detection on wearable tech which include smart watches.
+
 - Why do you think that offering this product or service would benefit the company?
+
+This would allow an even earlier detection on strokes and the watch could alert 911 sooner.
 
 - What technologies would this additional product or service utilize?
 
+This product would use AI as the first technologies but would also utilize wearable tech.
+
 - Why are these technologies appropriate for your solution?
+
+These technologies are appropriate because Viz.ai is a specialist in AI stroke detection so giving them a wider range of detection opertunities would significantly help detect strokes even sooner than they already have.
