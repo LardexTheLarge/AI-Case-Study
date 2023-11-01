@@ -28,7 +28,7 @@ Viz.ai's work also intersects with the field of Gene Editing, albeit indirectly.
 
 Furthermore, Virtual Reality (VR) and Augmented Reality (AR) technologies have the potential to transform medical education, surgical planning, and patient engagement. Viz.ai's commitment to innovation and technology positions them at the forefront of such developments, as they explore the possibilities of AI and real-time diagnostics in conjunction with immersive technologies.
 
-In this diverse landscape of healthcare technology, Viz.ai stands out as a leader in AI-assisted stroke care, with providing timely, accurate, and potentially life-saving solutions. While major tech-related companies like Google Health, PathAI, Zimmer Biomet, and Stryker Corporation have their areas of specialization.
+In this diverse landscape of healthcare technology, Viz.ai stands out as a leader in AI-assisted stroke care, with providing timely, accurate, and potentially life-saving solutions. While major tech-related companies like Google Health, PathAI, Zimmer Biomet, Stryker Corporation, and RapidAI have their areas of specialization.
 
 ## Results
 
@@ -42,18 +42,38 @@ In the healthcare technology sector, competition is robust, and one notable comp
 
 ## Recommendations
 
-- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+In the pursuit of enhancing healthcare outcomes, there's a compelling opportunity to take Viz.ai's expertise in AI-driven stroke detection a step further. By adding wearable technology, such as smartwatches, we can advance the detection of strokes even earlier, potentially saving more lives and reducing the long-term impact of strokes on patients.
 
-I would want them to use their AI stroke detection on wearable tech which include smart watches.
+The concept is to develop a product that seamlessly integrates Viz.ai's AI stroke detection capabilities with wearable technology. Specifically, we utilizing smartwatches equipped with AI algorithms for early stroke detection. This fusion of AI and wearables offers a powerful tool for early intervention.
 
-- Why do you think that offering this product or service would benefit the company?
+Viz.ai has already established itself as a specialist in AI-driven stroke detection. Leveraging this expertise, the integration of wearables expands their detection capabilities. AI serves as the core technology for accurate and timely identification of strokes.
 
-This would allow an even earlier detection on strokes and the watch could alert 911 sooner.
+Wearable technology, like smartwatches, offers continuous monitoring of vital signs and other health metrics. By analyzing real-time data, the smartwatch can promptly detect anomalies associated with strokes, such as irregular heart rates or sudden drops in oxygen levels. This allows for even earlier stroke detection than currently possible.
 
-- What technologies would this additional product or service utilize?
+When the smartwatch detects potential stroke symptoms, it can automatically trigger alerts. For instance, it can send immediate notifications to the wearer, prompting them to seek medical attention. Simultaneously, it can contact emergency services like 911, ensuring that help is on the way without delay.
 
-This product would use AI as the first technologies but would also utilize wearable tech.
+The combination of AI and wearables extends the range of detection opportunities. By monitoring vital signs 24/7, this product can identify strokes that occur during sleep or other times when traditional monitoring may not be in place.
 
-- Why are these technologies appropriate for your solution?
+## Sources
 
-These technologies are appropriate because Viz.ai is a specialist in AI stroke detection so giving them a wider range of detection opertunities would significantly help detect strokes even sooner than they already have.
+[Viz.ai](https://www.viz.ai)
+
+[Impact in Healthcare](https://www.viz.ai/news/new-clinical-data-supports-viz-ai-solution-for-improved-pulmonary-embolism-detection-and-care-coordination)
+
+[Viz.ai Patient outcome article](https://www.viz.ai/blog/acute-impact-on-patient-outcomes)
+
+[Viz.ai VS RapidAI Stroke detection](https://evtoday.com/news/vizais-viz-neuro-suite-evaluated-in-three-real-world-studies?c4src=center:neurointervention)
+
+[HealthCare Technology](https://getreferralmd.com/2021/02/10-healthcare-technology-advancements-in-the-last-decade/)
+
+Other Healthcare companies:
+
+[Google Health](https://health.google)
+
+[PathAI](https://www.pathai.com)
+
+[Zimmer Biomet](https://www.zimmerbiomet.com/en)
+
+[Stryker Corporation](https://www.stryker.com/us/en/index.html)
+
+[RapidAI](https://www.rapidai.com)
