@@ -34,9 +34,19 @@ In this diverse landscape of healthcare technology, Viz.ai stands out as a leade
 
 - What has been the business impact of this company so far?
 
+The most recent impact of Viz.ai was the use of AI to detect disease especially with
+pulmonary embolism. They have also have improved patient outcomes, Reduced costs, and increased access to specialized care.
+
 - What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
+Viz.ai measures their success through a variety of financial and non-financial categories.
+These categories include patient outcomes, patient satisfaction, financial performance,
+Patient Access, and cost efficiency. Patient outcome is most important to viz.ai and
+"in the stroke trails every minute delay results in a loss of four days of disability-free life". With the implementation of Viz.ai tech patients have reduced an average of 66 minutes of PSC imaging to CSC Arrival. According to Hassan "saving 10 min on average across the USA would save $249 million annually".
+
 - How is your company performing relative to competitors in the same field?
+
+An alternative company to Viz.ai is RapidAI and that RapidAI studies stroke detection. In a study done by Houston Healthcare, “Viz LVO versus Rapid LVO (RapidAI) in Detection of Large Vessel Occlusion on CT Angiography for Acute Stroke," by Adam Delora, wrote about the great performance of Viz.ai's stroke detection accuracy.
 
 ## Recommendations
 
